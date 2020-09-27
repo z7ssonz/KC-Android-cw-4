@@ -16,13 +16,6 @@
 
 1. إضافة سطر ال RecyclerView الموجود في الموقع
 <br>
-dependencies {
-<br>
-    implementation 'com.android.support:recyclerview-v7:28.0.0'
-<br>
-}
-
-<br>
 2. إضافة ال RecyclerView لل xml
 <br>
 3. ربط  RecyclerView بالactivity 
