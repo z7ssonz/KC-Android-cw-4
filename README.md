@@ -11,15 +11,17 @@
 2. حمل 3 صور على الأقل لأي ثلاث Pokemon من إختيارك
 <br>
 3. أضف أسماء ال Pokemon وخصائصه لعناصر المصفوفة
+
 ## الجزء الثاني من التمرين:
 
 1. إضافة سطر ال RecyclerView الموجود في الموقع
 <br>
-```java
 dependencies {
+<br>
     implementation 'com.android.support:recyclerview-v7:28.0.0'
+<br>
 }
-```
+
 <br>
 2. إضافة ال RecyclerView لل xml
 <br>
