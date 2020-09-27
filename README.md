@@ -12,9 +12,10 @@
 <br>
 3. أضف أسماء ال Pokemon وخصائصه لعناصر المصفوفة
 ## الجزء الثاني من التمرين:
+
 1. إضافة سطر ال RecyclerView الموجود في الموقع
 <br>
-```Java
+```java
 dependencies {
     implementation 'com.android.support:recyclerview-v7:28.0.0'
 }
