@@ -17,7 +17,7 @@ public static int totalGrade(int num1, int num2){
 }
 ```
 
-2) اكتب function بإسم ()temperature تاخذ درجة حرارة الجو و ترجع اما كلمة (Hot) في حالة درجة الحرارة أكثر من أو تساوي 23 او كلمة (Cold) في حالة درجة الحرارة أقل من 23.
+2) اكتب function بإسم ()temperature تطبع درجة حرارة الجو و ترجع اما كلمة (Hot) في حالة درجة الحرارة أكثر من أو تساوي 23 او كلمة (Cold) في حالة درجة الحرارة أقل من 23.
 
 ```java
 public static void temperature(int num1){
